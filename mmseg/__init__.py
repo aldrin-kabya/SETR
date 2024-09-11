@@ -3,7 +3,8 @@ import mmcv
 from .version import __version__, version_info
 
 MMCV_MIN = '1.1.2'
-MMCV_MAX = '1.2.7'
+#MMCV_MAX = '1.2.7'
+MMCV_MAX = '1.7.2'
 
 
 def digit_version(version_str):
